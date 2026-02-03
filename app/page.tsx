@@ -47,7 +47,7 @@ const Page = () => {
                     <TypeAnimation
                       sequence={[
                         // Same substring at the start will only be typed out once, initially
-                        "Хүндэт Хөөрхөн Энхжин таныг Valentine ",
+                        "Хүндэт Хөөрхөн Энхжин таныг Valentine цуг өнгрүүлж болохуу хэмээн уриж байна",
                         1000, // wait 1s before replacing "Mice" with "Hamsters"
                       ]}
                       wrapper="span"
